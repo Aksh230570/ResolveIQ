@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Generated outputs
+reports/outputs/
