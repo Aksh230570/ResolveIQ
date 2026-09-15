@@ -21,3 +21,6 @@ data/processed/*.csv
 
 # Generated outputs
 reports/outputs/
+
+#Model
+models/
